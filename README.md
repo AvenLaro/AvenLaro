@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi Everyone, I'm a [Full-Stack Developer]! 👋
 
 **A [Your Title, e.g., Passionate Frontend Developer | Open-Source Enthusiast] from [Your Location]**
 
@@ -20,16 +20,57 @@ I'm a developer who loves building beautiful, functional, and user-centric appli
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4)
+
+
+
+## 🚀 My Coding Journey
+
+![Header](https://github-readme-header.vercel.app/api?username=YOUR_USERNAME&desc=Fullstack%20Developer%20%7C%20Open%20Source%20Enthusiast&theme=dark)
+
+
+
+### 💪 Skills
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logoColor=black)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=flat-square)
+
+
+
+### 🎯 Currently Focusing On
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&color=FF0000&center=false&vCenter=false&width=435&lines=Building+scalable+web+applications;Learning+Next.js+and+Python;Contributing+to+Open+Source;Automating+everything+I+can" alt="Typing SVG" />
+
+
+
+### ⚡ Recent Activity
+
+<!-- GitHub Readme Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
