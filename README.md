@@ -1,6 +1,6 @@
 ![GitHub Snake](github-snake.svg)
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" width="30"/> Hi 👋, I'm Dawood Shahzad
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" width="30"/> Hi 👋, I'm A Full-Stack Developer
 
 <h3>A passionate Machine Learning Engineer</h3>
 
