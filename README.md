@@ -1,3 +1,5 @@
+![GitHub Snake](github-snake.svg)
+
 # Hi Everyone, I'm a [Full-Stack Developer]! 👋
 
 **A [Your Title, e.g., Passionate Frontend Developer | Open-Source Enthusiast] from [Your Location]**
@@ -93,10 +95,3 @@ Here are a few projects I'm particularly proud of:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
-
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-[![Personal Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox)](https://yourportfolio.com)
